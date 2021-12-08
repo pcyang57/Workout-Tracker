@@ -4,6 +4,7 @@
   this application can create and track workouts. You're able to log tyoe of workout, weight, and sets.
 
 https://github.com/pcyang57/Workout-Tracker
+https://pcworkouttracker.herokuapp.com/
 
   ## Table of Contents
   * [Installation](#installation)
